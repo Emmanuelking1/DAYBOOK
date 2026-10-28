@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Daybook",
+      "hasCanvas": false,
+      "bodyTextLen": 493,
+      "bodyTextHash": "c5931e7ed6535f15068b996605e4b37a112d9c5761244e396c0f1d86cc0a86fb",
+      "bodyTextPrefix": "DAYBOOK A prospecting desk for restaurant books. Sign in with Gm",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Daybook",
+      "hasCanvas": false,
+      "bodyTextLen": 493,
+      "bodyTextHash": "c5931e7ed6535f15068b996605e4b37a112d9c5761244e396c0f1d86cc0a86fb",
+      "bodyTextPrefix": "DAYBOOK A prospecting desk for restaurant books. Sign in with Gm",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
